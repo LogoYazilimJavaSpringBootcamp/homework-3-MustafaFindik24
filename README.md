@@ -1,6 +1,7 @@
 • Microservis ve monolith mimariyi karşılaştırın.
   
   Monolitik mimari tek parça şekilde oluşturulur. Geliştirmesi ve test aşamaları kolay ve basittir. Kendi kendine yeten ancak tek bir katmanda yapılan değişiklik diğer süreci etkilemesine sebep olan bir tür mimari diyebiliriz.
+  
   Mikroservis mimarisi her servisin verilen iş doğrultusunda tek bir amacı ve tek bir işi olup modüler yapıdaki bir mimaridir. Servisler birbirlerinden bağımsız ancak modüler yani yeni eklenecek servislerin projeye entegresi kolay gerçekleşir. Günümüzde en çok kullanılan mimari türüdür.
   
 
